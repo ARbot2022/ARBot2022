@@ -125,10 +125,10 @@ ${instagram}
 
 • TELEGRAM : ${telegram}
 • Youtube : 𝙰𝚁 𝙱𝙾𝚃.26
-• WA : 081271699856
+• WA : +62 857-5223-7463
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙰𝚁 𝙱𝙾𝚃.26*
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
 `
