@@ -10,12 +10,12 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
+🔱 *AUTHOR*: 𝙰𝚁 𝙱𝙾𝚃.26
+🔱 *GITHUB*: https://github.com/ARbot2022/ARBot2022
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : +62 857-5223-7463
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
