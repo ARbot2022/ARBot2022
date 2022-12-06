@@ -124,7 +124,7 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
+• Youtube : 𝙰𝚁 𝙱𝙾𝚃.26
 • WA : 081271699856
 • Pasang Iklan? Chat Whatsapp.
 
